@@ -1,1 +1,1 @@
-# clojure-backend-boilerplate
+# Clojure Microservice Project Boilerplate
