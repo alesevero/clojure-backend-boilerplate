@@ -1,4 +1,5 @@
-(ns shared.infra.http.routes)
+(ns shared.infra.http.routes
+  (:require [reitit.ring :as ring]))
 
 (def demo-handler [req]
   {:body "success"})
